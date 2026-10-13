@@ -1,10 +1,10 @@
 class Clipslots < Formula
   desc "Clipboard slot manager for macOS with global hotkeys"
   homepage "https://github.com/olafglad/clipSlots"
-  url "https://github.com/olafglad/clipSlots/releases/download/v1.15.0/clipslots-1.15.0-universal.tar.gz"
-  sha256 "16a270523117d9b49761c634f726c9181e749a4eb684b8e5ab09592064e3a83b"
+  url "https://github.com/olafglad/clipSlots/releases/download/v1.15.1/clipslots-1.15.1-universal.tar.gz"
+  sha256 "a30dd4692499b81fbeb94f101afbe5f6010868ad6d52318fc94d054b1fa7e867"
   license "MIT"
-  version "1.15.0"
+  version "1.15.1"
 
   depends_on :macos => :ventura
 
